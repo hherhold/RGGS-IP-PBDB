@@ -14,3 +14,6 @@ You may need to install jupyer lab using conda with
 
 `conda install jupyter-lab`
 
+Then load the notebook `PBDB Occurrences.ipynb` and follow along.
+
+`hherhold@amnh.org`
