@@ -12,7 +12,7 @@ or
 
 You may need to install jupyer lab using conda with
 
-`conda install jupyter-lab`
+`conda install jupyterlab`
 
 Then load the notebook `PBDB Occurrences.ipynb` and follow along.
 
