@@ -12,8 +12,14 @@ or
 
 You may need to install jupyer lab using conda with
 
-`conda install jupyter-lab`
+`conda install jupyterlab`
 
 Then load the notebook `PBDB Occurrences.ipynb` and follow along.
 
+You will need to determine your own formation name and tweak it in the code, and you will also need to determine your own URL for downloading data.
+This is largely meant to be a starting point for anyone interested to tweak it as needed for their own stuff.
+
+Happy to answer any questions.
+
+-Hollister
 `hherhold@amnh.org`
